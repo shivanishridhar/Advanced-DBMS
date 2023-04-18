@@ -1,0 +1,172 @@
+[
+    {
+        "TerritoryID": 1,
+        "Top3Products": [
+            {
+                "ProductID": 870,
+                "TotalProductQuantity": 947
+            },
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 887
+            },
+            {
+                "ProductID": 711,
+                "TotalProductQuantity": 794
+            }
+        ]
+    },
+    {
+        "TerritoryID": 2,
+        "Top3Products": [
+            {
+                "ProductID": 715,
+                "TotalProductQuantity": 549
+            },
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 514
+            },
+            {
+                "ProductID": 711,
+                "TotalProductQuantity": 423
+            }
+        ]
+    },
+    {
+        "TerritoryID": 3,
+        "Top3Products": [
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 584
+            },
+            {
+                "ProductID": 715,
+                "TotalProductQuantity": 562
+            },
+            {
+                "ProductID": 711,
+                "TotalProductQuantity": 440
+            }
+        ]
+    },
+    {
+        "TerritoryID": 4,
+        "Top3Products": [
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 1702
+            },
+            {
+                "ProductID": 715,
+                "TotalProductQuantity": 1446
+            },
+            {
+                "ProductID": 711,
+                "TotalProductQuantity": 1385
+            }
+        ]
+    },
+    {
+        "TerritoryID": 5,
+        "Top3Products": [
+            {
+                "ProductID": 715,
+                "TotalProductQuantity": 539
+            },
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 537
+            },
+            {
+                "ProductID": 711,
+                "TotalProductQuantity": 427
+            }
+        ]
+    },
+    {
+        "TerritoryID": 6,
+        "Top3Products": [
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 1638
+            },
+            {
+                "ProductID": 715,
+                "TotalProductQuantity": 1433
+            },
+            {
+                "ProductID": 708,
+                "TotalProductQuantity": 1285
+            }
+        ]
+    },
+    {
+        "TerritoryID": 7,
+        "Top3Products": [
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 587
+            },
+            {
+                "ProductID": 870,
+                "TotalProductQuantity": 568
+            },
+            {
+                "ProductID": 711,
+                "TotalProductQuantity": 519
+            }
+        ]
+    },
+    {
+        "TerritoryID": 8,
+        "Top3Products": [
+            {
+                "ProductID": 870,
+                "TotalProductQuantity": 677
+            },
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 555
+            },
+            {
+                "ProductID": 708,
+                "TotalProductQuantity": 415
+            }
+        ]
+    },
+    {
+        "TerritoryID": 9,
+        "Top3Products": [
+            {
+                "ProductID": 870,
+                "TotalProductQuantity": 913
+            },
+            {
+                "ProductID": 873,
+                "TotalProductQuantity": 674
+            },
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 619
+            }
+        ]
+    },
+    {
+        "TerritoryID": 10,
+        "Top3Products": [
+            {
+                "ProductID": 712,
+                "TotalProductQuantity": 688
+            },
+            {
+                "ProductID": 870,
+                "TotalProductQuantity": 679
+            },
+            {
+                "ProductID": 711,
+                "TotalProductQuantity": 560
+            }
+        ]
+    }
+]
